@@ -1,0 +1,50 @@
+[
+	{
+		"id" : 1,
+		"name" : "Engineering Mathematics-I",
+		"author" : "G.V. Kumbhojkar",
+		"subject" : "Mathematics",
+		"semester" : "I",
+		"cover_image" : "images/eng_maths1"
+	},
+	{
+		"id" : 2,
+		"name" : "Engineering Chemistry-I",
+		"author" : "Jain & Jain",
+		"subject" : "Chemistry",
+		"semester" : "I",
+		"cover_image" : "images/eng_chem1"
+	},
+	{
+		"id" : 3,
+		"name" : "Engineering Physics-I",
+		"author" : "Avadhanulu & Kshirsagar, S.Chand",
+		"subject" : "Physics",
+		"semester" : "I",
+		"cover_image" : "images/eng_phy1"
+	},
+	{
+		"id" : 4,
+		"name" : "Engineering Mechanics",
+		"author" : "R. C. Hibbeler",
+		"subject" : "Mechanics",
+		"semester" : "I",
+		"cover_image" : "images/eng_mech1"
+	},
+	{
+		"id" : 5,
+		"name" : "Basic Electrical Engineering",
+		"author" : "V. N. Mittal and Arvind Mittal",
+		"subject" : "BEE",
+		"semester" : "I",
+		"cover_image" : "images/bee"
+	},
+	{
+		"id" : 6,
+		"name" : "Environmental Studies",
+		"author" : "Benny Joseph",
+		"subject" : "Environmental Studies",
+		"semester" : "I",
+		"cover_image" : "images/es"
+	}
+]
